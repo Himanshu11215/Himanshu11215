@@ -8,7 +8,7 @@ Himanshu Sharma</a></h1><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=210HS&label=Profile%20views&color=0e75b6&style=flat" alt="210HS" /> </p>
 
-<p align="left"> <a href="/" target="blank"><img src="https://img.shields.io/twitter/follow/210HS?logo=twitter&style=for-the-badge" alt="210HS" /></a> </p>
+<!--<p align="left"> <a href="/" target="blank"><img src="https://img.shields.io/twitter/follow/210HS?logo=twitter&style=for-the-badge" alt="210HS" /></a> </p>-->
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -30,6 +30,8 @@ Himanshu Sharma</a></h1><br/>
 
 <!--- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>-->
 <br/><br/><br/>
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -48,10 +50,11 @@ Himanshu Sharma</a></h1><br/>
   
   </td>
 </tr>
-</table>
+</table> 
 <!--- stats (end) -->
 
 <!--tech stack icons-->
+<h3 align="center">Passionate About</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
