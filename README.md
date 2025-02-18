@@ -28,9 +28,13 @@ Himanshu Sharma</a></h1><br/>
 
 - 📫 How to reach me **heyhimanshu.ce@outlook.com**
 
-<!--- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>-->
+📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/><br/><br/>
 
+<h3>Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=7" />
 
 <!--- stats & Trophy (start) -->
 <p align="center">
