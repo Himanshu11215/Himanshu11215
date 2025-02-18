@@ -31,7 +31,7 @@ Himanshu Sharma</a></h1><br/>
 - 📄 Know about my experiences <a href="https://github.com/Himanshu11215/Himanshu11215/blob/main/Himanshu%20sharma.pdf" target="blank">Resume</a>
 <br/><br/><br/>
 <br/><br/><br/><br/>
-<h3>Skills</h3>
+<h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=7" />
