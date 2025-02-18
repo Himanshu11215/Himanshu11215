@@ -34,7 +34,7 @@ Himanshu Sharma</a></h1><br/>
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,figma,github,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=10" />
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -52,15 +52,15 @@ Himanshu Sharma</a></h1><br/>
 </tr>
 </table> -->
 <!--- stats (end) -->
-
+<br/><br/><br/>
 <!--tech stack icons-->
 <h3 align="center">Passionate About</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=13" />
   </a>
 </p>
-<br/>
+<br/><br/><br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <!--
 <p align="center">
