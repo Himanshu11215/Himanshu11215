@@ -28,7 +28,7 @@ Himanshu Sharma</a></h1><br/>
 
 - 📫 How to reach me **heyhimanshu.ce@outlook.com**
 
-📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/><br/><br/>
 
 <h3>Skills</h3>
