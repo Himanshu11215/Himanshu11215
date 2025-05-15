@@ -14,9 +14,9 @@ Himanshu Sharma</a></h1><br/>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Bhiwani Algorithm Private Limited</a>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">iEnergizer</a>
 
-- 🌱 I’m currently Working on Project Management.
+- 🌱 I’m currently Working as an tech support.
 
 - 🤝 I’m available for freelancing/Full Time/ Contract Basis.
 
