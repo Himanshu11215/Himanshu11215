@@ -26,7 +26,7 @@ Himanshu Sharma</a></h1><br/>
 
 - 💬 Ask me about **Reactjs & Node.js**
 
-- 📫 How to reach me **heyhimanshu.ce@outlook.com**
+- 📫 How to reach me **heyyhimanshu.ce@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/Himanshu11215/Himanshu11215/blob/main/Himanshu%20sharma.pdf" target="blank">Resume</a>
 <br/><br/><br/>
