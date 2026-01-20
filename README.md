@@ -28,7 +28,7 @@ Himanshu Sharma</a></h1><br/>
 
 - 📫 How to reach me **heyyhimanshu.ce@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/Himanshu11215/Himanshu11215/blob/main/Himanshu%20sharma.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/himanshu-1306/Himanshu11215/blob/main/hs_resume.pdf" target="blank">Resume</a>
 <br/><br/><br/>
 <br/><br/><br/><br/>
 <h3 align="center">Skills</h3>
