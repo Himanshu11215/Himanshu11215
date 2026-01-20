@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <a href="/" target="blank">
-Himanshu Sharma</a></h1><br/>
+Himanshu Sharma passionate for exciting technical opportunities to develop hands-on experience in full stack development. I’ve a practical understanding of frontend, backend and version control using Git moreover enjoys to work in linux environment. Passionate to learn new tools and greatful for every opportunity.</a></h1><br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+To+All..&hearts;++;Passionate+MERN-Stack+Developer,;Computer+Science+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p><br/>
